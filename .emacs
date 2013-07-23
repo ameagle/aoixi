@@ -32,3 +32,4 @@
 (global-set-key (kbd "\C-c u") 'uncomment-region) ;; for comment/uncomment region in all modes
 
  ;;first add git 22
+;; new_feature`
