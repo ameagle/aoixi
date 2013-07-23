@@ -31,5 +31,5 @@
 (global-set-key (kbd "\C-c c") 'comment-region)   ;; make C-c C-c and C-c C-u work
 (global-set-key (kbd "\C-c u") 'uncomment-region) ;; for comment/uncomment region in all modes
 
- ;;first add git master
-;; new_feature`
+ ;;first add git edit_text
+;; new_feature text edit` 
