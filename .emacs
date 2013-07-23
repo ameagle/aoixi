@@ -32,4 +32,4 @@
 (global-set-key (kbd "\C-c u") 'uncomment-region) ;; for comment/uncomment region in all modes
 
  ;;first add git MASTER2
-;; new_feature MASTER2`
+;; new_feature text edit`
